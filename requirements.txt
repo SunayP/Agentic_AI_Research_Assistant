@@ -8,3 +8,5 @@ openai
 tavily-python
 python-dotenv
 arxiv
+chatbot_core 
+streamlit
