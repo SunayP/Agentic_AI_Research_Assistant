@@ -1,0 +1,10 @@
+pydantic
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-groq
+openai
+tavily-python
+python-dotenv
+arxiv
